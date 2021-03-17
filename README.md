@@ -1,2 +1,3 @@
 # correspondence_analysis
-Library prince
+Library python prince
+
